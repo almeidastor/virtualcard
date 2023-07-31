@@ -7,6 +7,6 @@
 
 Cartões Virtuais responsivos criados por mim
 
-* [Espaço Néia Estética - 2023]
+* [Espaço Néia Estética - 2023] </br> 
 🔗Online: https://almeidastor.github.io/virtualcard/espaconeia/ </br>
 📎 PDF: https://github.com/almeidastor/virtualcard/blob/main/espaconeia/offline/Cart%C3%A3o%20Virtual.pdf
