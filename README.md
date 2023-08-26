@@ -13,4 +13,4 @@ Cartões Virtuais responsivos criados por mim
 
 * [Diego JF Lucas - 2023] </br> 
 🔗Online: https://almeidastor.github.io/virtualcard/diegojflucas/ </br>
-📎 PDF: https://github.com/almeidastor/virtualcard/blob/main/espaconeia/offline/DiegoJFLucas.pdf
+📎 PDF: https://github.com/almeidastor/virtualcard/blob/main/diegojflucas/offline/DiegoJFLucas.pdf
